@@ -1,0 +1,42 @@
+body{
+	background: url(http://www.brezmejnadimenzija.si/wp-content/uploads/2018/03/e5f9f398bbae7953349a88beb427fa9d-1.png) fixed no-repeat;
+    background-size: 100%;
+}
+.judul2{
+	font-size: 24px;
+    background: #ef9494;
+    font-weight: bold;
+}
+#Judul3 {
+    font-size: 13pt;
+    font-family: calibri;
+    width: 52%;
+    text-align: center;
+    border-top: 10px solid #217bb9;
+    border-bottom: 10px solid #217bb9;
+    padding: 18px 0px;
+    background: #74bdef;
+    margin: 20px auto;
+    box-shadow: 20px 10px #0a0a0a4f;
+}
+#tersera{
+    background-color: #74bdef;
+    max-width: 900px;
+    box-shadow: 20px 10px #0a0a0a4f;
+    margin: 0 auto;
+    padding: 20px;
+    border: 20px solid #217bb9;
+}
+#Judul{
+    font-size: 35pt;
+    font-family: calibri;
+    text-align: center;
+    border-top: 10px solid #217bb9;
+    border-bottom: 10px solid #217bb9;
+    padding: 18px 0px;
+    background: #74bdef;
+}
+#tabelku{
+	line-height: 2.0em;
+    text-align: center;
+}
